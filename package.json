@@ -1,6 +1,6 @@
 {
-    "author": "Jorge Toro",
-    "name": "censorify",
+    "author": "Jorge Toro <jolthgs@gmail.com>",
+    "name": "jolth",
     "version": "0.1.1",
     "description": "Censors words out of text",
     "main": "censortext",
@@ -15,5 +15,6 @@
     "dependencies": {},
     "engines": {
         "node": "*"
-    }
+    },
+    "license": "ISC"
 }
